@@ -36,21 +36,12 @@ body{
 }
 
 .carousel{
+    justify-items: center;
     display: flex;
     overflow: auto; 
     scroll-snap-type: x mandatory;
     width: 20%;
     height: 17%;
-}
-
-.calça{
-    width: 210px;
-    height: 140px;
-}
-
-.rosto{
-    width: 150px;
-    height: 160px;
 }
 
 .carousel img{ 
@@ -82,15 +73,6 @@ body{
     background-color: rgb(0, 0, 0);
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.imagemrodape  img{
-    display: flex;
-    justify-content: space-between;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 2px dashed white;
 }
 
 P{
