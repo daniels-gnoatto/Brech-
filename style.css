@@ -57,3 +57,22 @@ body{
     width: 100%;
     position: sticky;
 }
+
+#contatos{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    align-items: center;
+    background-color:rgb(4, 168, 157);
+    border-radius: 10px;
+    opacity: 0.7;
+    color: black;
+}
+
+#formulario{
+    padding: 20px;
+    background-color:rgb(4, 195, 182);
+    text-align: left;
+    color: rgb(253, 253, 253);
+}
