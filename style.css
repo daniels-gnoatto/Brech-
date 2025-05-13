@@ -16,3 +16,44 @@ body{
     justify-content:space-around;
     align-items: center;
 }
+
+#icone{
+    width: 80px;
+    height: 80px;
+}
+
+.imagem{
+    width: 350px;
+    height: 40px;
+}
+
+#carrosseis{
+    width: 1050px;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end ;
+}
+
+.carousel{
+    display: flex;
+    overflow: auto; 
+    scroll-snap-type: x mandatory;
+    width: 20%;
+    height: 17%;
+}
+
+.calça{
+    width: 210px;
+    height: 140px;
+}
+
+.rosto{
+    width: 150px;
+    height: 160px;
+}
+
+.carousel img{ 
+    width: 100%;
+    position: sticky;
+}
