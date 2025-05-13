@@ -1,16 +1,16 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color:rgb(248, 248, 230);
+    background-color:rgb(255, 234, 234);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 #navbar{
     padding: 15px;
     border: 0PX;
-    background-color:rgb(182, 132, 6);
+    background-color:rgb(4, 195, 182);
     color: rgb(236, 236, 226);
     display: flex;
     justify-content:space-around;
